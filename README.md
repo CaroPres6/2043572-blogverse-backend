@@ -24,13 +24,12 @@ Avant d'exécuter le projet, assurez-vous d'avoir installé les éléments suiva
      ```
    - Mettez à jour le fichier `.env` avec votre configuration :
      ```
-     PORT=3001
+     PORT=3000
      DB_HOST=localhost
      DB_USERNAME=blog_user
      DB_PASSWORD=secret
      DB_PORT=3306
      DB_NAME=blog_app
-     DATABASE_URL=localhost:3306
      ```
 
 3. **Créer la base de données MySQL :**
